@@ -13,6 +13,9 @@
 # limitations under the License.
 
 import streamlit as st
+git add requirements.txt
+git commit -m "Add requirements.txt file"
+git push origin main
 
 # Streamlit commands each used by > 50% of apps:
 
